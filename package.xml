@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>turtletorque3_msgs</name>
+  <version>1.0.1</version>
+  <description>
+    Message and service types: custom messages and services for TurtleTorque3 packages
+  </description>
+  <license>Apache 2.0</license>
+  <author email="diego.garcia1195@alumnos.udg.mx">Diego Garcia</author>
+  <author email="valeria.plascencia1189@alumnos.udg.mx">Valeria Plascencia</author>
+  <maintainer email="valeria.plascencia1189@alumnos.udg.mx">Valeria Plascencia</maintainer>
+  <url type="repository">https://github.com/diegoene17/turtletorque3_msgs</url>
+  <url type="bugtracker">https://github.com/diegoene17/turtletorque3_msgs/issues</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>std_msgs</depend>
+  <build_depend>message_generation</build_depend>
+  <build_export_depend>message_runtime</build_export_depend>
+  <exec_depend>message_runtime</exec_depend>
+</package>
